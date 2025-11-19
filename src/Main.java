@@ -10,7 +10,7 @@ void main() {
         IO.println(indiceMasaCorporal);
         //Mayor a 30 -> Obesidad
         if (indiceMasaCorporal > 30){
-            IO.println("Estás super marrano, cuidate baby");
+            IO.println("Tienes problemas de salud, cuidate baby");
         }
         //Entre 25 y 30 -> Sobrepeso
         if (indiceMasaCorporal >= 25 && indiceMasaCorporal <= 30){
