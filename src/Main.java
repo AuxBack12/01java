@@ -22,7 +22,7 @@ void main() {
         }
         //Menor a 18.5 -> Peso por debajo de lo normal
         if (indiceMasaCorporal < 18.5){
-            IO.println("Estás super desnutrido flaco, cuidate baby");
+            IO.println("Estás super desnutrido flaco, como bien papu");
         }
     }
 }
