@@ -18,7 +18,7 @@ void main() {
         }
         //Entre 18.5 y 25 -> normal
         if (indiceMasaCorporal >= 18.5 && indiceMasaCorporal <= 25){
-            IO.println("Estás super chikistrikis");
+            IO.println("Estás super bien bro");
         }
         //Menor a 18.5 -> Peso por debajo de lo normal
         if (indiceMasaCorporal < 18.5){
